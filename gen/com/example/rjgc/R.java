@@ -21,13 +21,36 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int a=0x7f020000;
+        public static final int call=0x7f020001;
+        public static final int dot=0x7f020002;
+        public static final int dot1=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int msg=0x7f020005;
+        public static final int ttu=0x7f020006;
+        public static final int welcome1=0x7f020007;
+        public static final int welcome11=0x7f020008;
+        public static final int welcome2=0x7f020009;
+        public static final int welcome3=0x7f02000a;
+        public static final int welcome4=0x7f02000b;
+        public static final int zzwelcome=0x7f02000c;
+        public static final int zzwelcome1=0x7f02000d;
+        public static final int zzwelcome2=0x7f02000e;
+        public static final int zzwelcome4=0x7f02000f;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f080006;
+        public static final int c_idea=0x7f080002;
+        public static final int c_joke=0x7f080001;
+        public static final int linearLayout=0x7f080000;
+        public static final int ll=0x7f080004;
+        public static final int ttu=0x7f080005;
+        public static final int welcomeviewpage=0x7f080003;
     }
     public static final class layout {
         public static final int activity_a=0x7f030000;
+        public static final int dot=0x7f030001;
+        public static final int welcome=0x7f030002;
     }
     public static final class menu {
         public static final int a=0x7f070000;
